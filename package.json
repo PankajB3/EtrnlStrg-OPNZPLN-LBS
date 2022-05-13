@@ -1,0 +1,23 @@
+{
+  "name": "EtrnlStrg-OPNZPLN-LBS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PankajB3/EtrnlStrg-OPNZPLN-LBS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PankajB3/EtrnlStrg-OPNZPLN-LBS/issues"
+  },
+  "homepage": "https://github.com/PankajB3/EtrnlStrg-OPNZPLN-LBS#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.5"
+  }
+}
